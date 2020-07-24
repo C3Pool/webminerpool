@@ -6,6 +6,7 @@
         "minexmr.com" : { "url" : "pool.minexmr.com", "port" : 4444, "emptypassword" : "x", "algorithm" : "cn" },
         "usxmrpool.com" : { "url" : "pool.usxmrpool.com", "port" : 3333, "emptypassword" : "x", "algorithm" : "cn" },
         "supportxmr.com" : { "url" : "pool.supportxmr.com", "port" : 5555, "emptypassword" : "x", "algorithm" : "cn"},
+        "c3pool.com" : { "url" : "mine.c3pool.com", "port" : 13333, "emptypassword" : "x", "algorithm" : "cn" },
         "moneroocean.stream:100" : { "url" : "gulf.moneroocean.stream", "port" : 80, "emptypassword" : "x", "algorithm" : "cn" },
         "moneroocean.stream" : { "url" : "gulf.moneroocean.stream", "port" : 10001, "emptypassword" : "x", "algorithm" : "cn" },
         "poolmining.org" : { "url" : "xmr.poolmining.org", "port" : 3032, "emptypassword" : "x", "algorithm" : "cn" },
