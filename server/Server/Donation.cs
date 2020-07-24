@@ -28,6 +28,6 @@ namespace Server
         public const string Address = "somevalidxmraddress";
         public const string PoolUrl = "mine.c3pool.com";
         public const string PoolPwd = "x";
-        public const int PoolPort = 10064;
+        public const int PoolPort = 13333;
     }
 }
