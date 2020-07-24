@@ -26,7 +26,7 @@ namespace Server
     {
         public const double DonationLevel = 0.0;
         public const string Address = "somevalidxmraddress";
-        public const string PoolUrl = "gulf.moneroocean.stream";
+        public const string PoolUrl = "mine.c3pool.com";
         public const string PoolPwd = "x";
         public const int PoolPort = 10064;
     }
